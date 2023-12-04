@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 320px;
+    height: 320px;
+    background-color: darkorange;
+    border: 5px, solid, white;
+}
+
+.block {
+    width: 18px;
+    height: 18px;
+    background-color: #ffffff;
+    margin: 1px;
+}
