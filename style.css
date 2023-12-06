@@ -6,7 +6,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     align-content: space-around;
-    justify-content: space-around;
     width: 960px;
     height: 960px;
     background-color: #ff8c00;
@@ -15,12 +14,9 @@ body {
 
 .blockX {
     display: flex;
-    align-items: stretch;
     flex-grow: 1;
-    flex-wrap: wrap;
     flex-direction: column;
     margin: 1px;
-    justify-content: space-around;
     height: 100%;
 }
 
